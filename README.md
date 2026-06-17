@@ -122,18 +122,6 @@ When the user downloads a journal, the app creates a valid `.docx` file in the b
 
 The companion sends the current mood, user question, and active track context to the backend. The backend returns either an external generated response or a local fallback response. If the frontend cannot reach the backend, it uses the built-in local response set.
 
-## Project Structure
-
-```text
-MoodBeat/
-├── index.html
-├── api.py
-├── songs.csv
-├── mood_model.pkl
-├── README.md
-└── MoodBeatDemo.gif
-```
-
 ## Installation
 
 ### Option 1: Run the Frontend Only
