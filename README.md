@@ -7,9 +7,6 @@ MoodBeat is a moodbased music wellness web app that turns emotional check-ins in
 ![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
 ![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
 
-## Demonstation
-![MoodBeat Demo](MoodBeatDemo.gif)
-
 ## Overview
 
 MoodBeat combines emotional wellness, music recommendation logic, and interactive web design in one lightweight application. The user selects one of eight emotional states, and the app responds with a curated playlist, album or single cover art, Spotify search links, a playable audio preview when available, a personalized journal prompt, a small self-care action, and a short supportive response through the mood companion.
