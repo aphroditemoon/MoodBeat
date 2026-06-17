@@ -8,7 +8,7 @@ MoodBeat is a moodbased music wellness web app that turns emotional check-ins in
 ![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 ## Demonstation
-![MoodBeat Demo](assets/MoodBeatDemo.gif)
+![MoodBeat Demo](MoodBeatDemo.gif)
 
 ## Overview
 
@@ -130,8 +130,7 @@ MoodBeat/
 ├── songs.csv
 ├── mood_model.pkl
 ├── README.md
-└── assets/
-    └── moodbeat-demo.gif
+└── MoodBeatDemo.gif
 ```
 
 ## Installation
